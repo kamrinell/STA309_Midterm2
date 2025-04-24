@@ -1,5 +1,5 @@
 # STA309_Midterm2
-author: Camryn Mitchell
+Author: Camryn Mitchell
 
 For this project I looked into the sentiment of lyrics from Lady Gaga. The three albums I looked at were "The Fame", "ARTPOP", and "Mayhem". Mayhem ended up having the most negative sentiment in its lyrics but also being the most popular. However, it is important to note that popularity is determined not just by the amount of plays but also the recency of those plays. 
 
